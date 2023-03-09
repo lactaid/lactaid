@@ -31,7 +31,6 @@
 <div id="header" align="right">
   
 [![](https://visitcount.itsvg.in/api?id=Lactaid&icon=4&color=6)](https://visitcount.itsvg.in)
-<br>
 <img src="https://images7.alphacoders.com/733/thumb-1920-733948.png" width="100"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
