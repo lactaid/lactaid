@@ -10,9 +10,9 @@
   <a href="https://lactaid.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.pixiv.net/en/users/66023854">
+ <!-- <a href="https://www.pixiv.net/en/users/66023854">
     <img src="https://img.shields.io/badge/Pixiv-blue?style=for-the-badge&logo=pixiv&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <h1 align="center">
