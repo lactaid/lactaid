@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.pixiv.net/en/users/66023854">
-    <img src="https://img.shields.io/twitter/url?color=%230096FA&label=Pixiv&logo=Pixiv&logoColor=white&style=for-the-badge&url=https://www.pixiv.net/en/users/66023854&labelColor=%230096FA" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Pixiv-blue?style=for-the-badge&logo=pixiv&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
