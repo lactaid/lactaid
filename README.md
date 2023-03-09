@@ -20,9 +20,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
-  <p> I'm a CS student with a passion for computer graphics and programming. 
+  <p align="center"> I'm a CS student with a passion for computer graphics and programming. 
   
-  My interests include 3D rendering, texture rendering, 2D art and illustration, animation, and game development. </p>
+   <p align="center"> My interests include 3D rendering, texture rendering, 2D art and illustration, animation, and game development. </p>
   
 ![-----------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png)
   
@@ -32,7 +32,7 @@
 
 ![-----------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lactaid&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lactaid&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lactaid&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
