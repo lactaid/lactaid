@@ -20,9 +20,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
-  <p align="center"> I'm a CS student with a passion for computer graphics and programming. 
-  
-   <p align="center"> My interests include 3D rendering, texture rendering, 2D art and illustration, animation, and game development. </p>
+<!--   <p align="center"> I'm a CS student with a passion for computer graphics and programming. 
+  <p align="center"> My interests include 3D rendering, texture rendering, 2D art and illustration, animation, and game development. </p> -->
   
 ![-----------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png)
   
